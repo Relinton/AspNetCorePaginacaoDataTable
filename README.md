@@ -5,8 +5,8 @@
 
 Um DataTable é como um container que podemos usar para armazenar informações de praticamente qualquer fonte de dados, sendo composto por uma coleção de linhas (rows) e colunas (columns). Podemos criar um DataTable para armazenar dados em memória e realizar operações para incluir, alterar e excluir essas informações.
 
-<!--## Layout web-->
-<!--![Web 1](https://github.com/relinton/assets/raw/main/img/img1.png)-->
+## Layout web
+![paginacaodatatable](https://user-images.githubusercontent.com/32855779/161625983-8aa7e475-7165-4129-87e8-d7353c7bc2d5.png)
 
 # Tecnologias utilizadas
 ## Front end
